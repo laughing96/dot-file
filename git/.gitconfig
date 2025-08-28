@@ -15,7 +15,7 @@
 [tag]
 	sort = version:refname
 [init]
-	defaultBranch = master
+	defaultBranch = main
 [checkout]
 	defaultRemote = origin
 [rerere]
